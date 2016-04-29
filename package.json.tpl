@@ -11,7 +11,7 @@
 		}
 	],
 	"dependencies": {
-		"extend": "~2.0.0",
+		"extend": "~3.0.0",
 		"moment": "~2.10.0",
 		"iconv-lite": "~0.4.7"
 	},
