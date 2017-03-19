@@ -12,7 +12,7 @@
 	],
 	"dependencies": {
 		"extend": "~3.0.0",
-		"moment": "~2.17.0",
+		"moment": "~2.18.0",
 		"iconv-lite": "~0.4.7"
 	},
 	"repository": {
